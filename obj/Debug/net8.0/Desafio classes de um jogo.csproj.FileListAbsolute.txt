@@ -1,0 +1,14 @@
+C:\Users\Takaki\Desktop\Bootcamp\Desafio classes de um jogo\obj\Debug\net8.0\Desafio classes de um jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Takaki\Desktop\Bootcamp\Desafio classes de um jogo\obj\Debug\net8.0\Desafio classes de um jogo.AssemblyInfoInputs.cache
+C:\Users\Takaki\Desktop\Bootcamp\Desafio classes de um jogo\obj\Debug\net8.0\Desafio classes de um jogo.AssemblyInfo.cs
+C:\Users\Takaki\Desktop\Bootcamp\Desafio classes de um jogo\obj\Debug\net8.0\Desafio classes de um jogo.csproj.CoreCompileInputs.cache
+C:\Users\Takaki\Desktop\Bootcamp\Desafio classes de um jogo\bin\Debug\net8.0\Desafio classes de um jogo.exe
+C:\Users\Takaki\Desktop\Bootcamp\Desafio classes de um jogo\bin\Debug\net8.0\Desafio classes de um jogo.deps.json
+C:\Users\Takaki\Desktop\Bootcamp\Desafio classes de um jogo\bin\Debug\net8.0\Desafio classes de um jogo.runtimeconfig.json
+C:\Users\Takaki\Desktop\Bootcamp\Desafio classes de um jogo\bin\Debug\net8.0\Desafio classes de um jogo.dll
+C:\Users\Takaki\Desktop\Bootcamp\Desafio classes de um jogo\bin\Debug\net8.0\Desafio classes de um jogo.pdb
+C:\Users\Takaki\Desktop\Bootcamp\Desafio classes de um jogo\obj\Debug\net8.0\Desafio classes de um jogo.dll
+C:\Users\Takaki\Desktop\Bootcamp\Desafio classes de um jogo\obj\Debug\net8.0\refint\Desafio classes de um jogo.dll
+C:\Users\Takaki\Desktop\Bootcamp\Desafio classes de um jogo\obj\Debug\net8.0\Desafio classes de um jogo.pdb
+C:\Users\Takaki\Desktop\Bootcamp\Desafio classes de um jogo\obj\Debug\net8.0\Desafio classes de um jogo.genruntimeconfig.cache
+C:\Users\Takaki\Desktop\Bootcamp\Desafio classes de um jogo\obj\Debug\net8.0\ref\Desafio classes de um jogo.dll
