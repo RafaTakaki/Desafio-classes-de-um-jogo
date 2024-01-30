@@ -40,7 +40,6 @@ namespace Desafio_classes_de_um_jogo.classe
 
             while (exibirMenu)
             {
-                Console.Clear();
                 Console.WriteLine("Digite a sua classe:");
                 Console.WriteLine("1 - Mago");
                 Console.WriteLine("2 - Guerreiro");
@@ -53,28 +52,34 @@ namespace Desafio_classes_de_um_jogo.classe
                     tipo = "mago";
                     ataque = "magia";
                     exibirMenu = false;
+                    Console.Clear();
                     break;
 
                     case "2":
                     tipo = "guerreiro";
                     ataque = "espada";
                     exibirMenu = false;
+                    Console.Clear();
                     break;
 
                     case "3":
                     tipo = "monge";
                     ataque = "artes marciais";
                     exibirMenu = false;
+                    Console.Clear();
                     break;
 
                     case "4":
                     tipo = "ninja";
                     ataque = "shuriken";
                     exibirMenu = false;
+                    Console.Clear();
                     break;
 
                     default:
                     Console.WriteLine("Opção inválida");
+                    Console.ReadLine();
+                    Console.Clear();
                     break;
                 }
                 Console.Clear();

@@ -12,3 +12,4 @@ C:\Users\Takaki\Desktop\Bootcamp\Desafio classes de um jogo\obj\Debug\net8.0\ref
 C:\Users\Takaki\Desktop\Bootcamp\Desafio classes de um jogo\obj\Debug\net8.0\Desafio classes de um jogo.pdb
 C:\Users\Takaki\Desktop\Bootcamp\Desafio classes de um jogo\obj\Debug\net8.0\Desafio classes de um jogo.genruntimeconfig.cache
 C:\Users\Takaki\Desktop\Bootcamp\Desafio classes de um jogo\obj\Debug\net8.0\ref\Desafio classes de um jogo.dll
+C:\Users\Takaki\Desktop\Bootcamp\Desafio classes de um jogo\obj\Debug\net8.0\Desafio classes de um jogo.sourcelink.json
